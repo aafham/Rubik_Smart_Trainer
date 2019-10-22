@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="remove_user_button" type="id" />
+    <item name="newPassword" type="id" />
+    <item name="old_email" type="id" />
+    <item name="change_password_button" type="id" />
+    <item name="remove" type="id" />
+    <item name="password" type="id" />
+    <item name="changePass" type="id" />
+    <item name="useremail" type="id" />
+</resources>
